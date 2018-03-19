@@ -1,0 +1,25 @@
+.gameImage {
+	width:20%;
+	float:left;
+}
+
+.gameText {
+	width: 70%;
+	float: right;
+	padding-right:20px;
+	padding-left:15px
+}
+
+.gameImage img {
+	display: block;
+	padding-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.gameLayout {
+	width: 95%;
+	border:solid 1px white;
+	height: 200px;
+}
+

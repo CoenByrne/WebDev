@@ -1,0 +1,33 @@
+
+.AboutUs img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}	
+
+.AboutUs h2 {
+	text-align: center;
+	color: white;
+	
+}
+
+.AboutUs h3 {
+	text-align:center;
+	color: white;
+}	
+
+.AboutUs p {
+	padding-left: 32px;
+	color: white;
+}
+
+.AboutUs #right {
+	padding-top: 0;
+}
+
+.AboutUs #left {
+}
+
+.AboutUs {
+	padding-top: 150px;
+}
